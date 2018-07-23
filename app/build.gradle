@@ -32,5 +32,5 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     implementation group: 'io.honeycomb.libhoney', name: 'libhoney-java', version: '1.0.0'
-
+    //implementation 'io.honeycomb.libhoney:libhoney-java:1.0.0'
 }
